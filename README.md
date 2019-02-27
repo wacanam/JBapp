@@ -1,5 +1,5 @@
-# demospark
-Demo app for SparkJava
+# Jolibee App
+Web app powered by SparkJava
 
 ## TO BEGIN
 1. Install and configure Maven
